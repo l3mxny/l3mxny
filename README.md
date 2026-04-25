@@ -14,8 +14,11 @@
 </p>
 
  
-### In Progress...
-- larp 
+### I like to ...
+- larp
+- pp grinding add me ! https://osu.ppy.sh/users/18338895
+- ski
+- 10 x 8 squats every gym 
 
  
 ### Skills
