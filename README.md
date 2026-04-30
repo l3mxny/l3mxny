@@ -19,13 +19,13 @@
 - pp grinding add me ! https://osu.ppy.sh/users/18338895
 - ski
 
-- JK, check out what i'm working on below!
+- JK, check out what I'm working on below!
 
  
 ### Skills
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,html,css,tailwind&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,py,java,js,ts,html,css,tailwind&perline=9" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,firebase,mongodb,docker,git,linux&perline=8" />
