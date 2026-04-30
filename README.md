@@ -19,6 +19,8 @@
 - pp grinding add me ! https://osu.ppy.sh/users/18338895
 - ski
 
+- JK, check out what i'm working on below!
+
  
 ### Skills
  
