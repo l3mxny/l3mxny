@@ -14,12 +14,7 @@
 </p>
 
  
-### I like to ...
-- larp
-- pp grinding add me ! https://osu.ppy.sh/users/18338895
-- ski
-
-- JK, check out what I'm working on below!
+### inprogress
 
  
 ### Skills
