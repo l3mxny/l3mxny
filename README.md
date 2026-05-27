@@ -8,7 +8,7 @@
 <a href="mailto:vxiao@terpmail.umd.edu"><img src="https://skillicons.dev/icons?i=gmail" height="28" /></a>
 </h1>
  <p> ✶ current sophomore student @ UMD studying computer science + statistics</p>
- <p> ✶ interested in building with a purpose -- applying AI/ML to create real-world impact</p>
+ <p> ✶ interested in building with a purpose -- applying ai/ml to create real-world impact</p>
  <p> ✶ when not at the computer, i'm always ranking a new food spot on beli (add me! @l3mxny) </p>
 
  <div align = "left">
@@ -18,8 +18,8 @@
    
 
 <p> ✶ <strong>winter 2026:</strong> ai/ml intern @ <a href="https://www.easydynamics.com/">Easy Dynamics</a><br>
-&nbsp;&nbsp;&nbsp; 𖦹 built Blink (below!) — a RAG-powered IT agent deployed in Microsoft Teams via Copilot Studio + Power Automate, cutting initial response time from 24 hours to 10 seconds<br>
-&nbsp;&nbsp;&nbsp; 𖦹 engineered the data pipeline to extract and structure Jira ticket history into Azure Blob Storage to fuel automated resolution
+&nbsp;&nbsp;&nbsp; 𖦹 built Blink (below!) — a RAG-powered it agent deployed in microsoft teams via copilot studio + power automate, cutting initial response time from 24 hours to 10 seconds<br>
+&nbsp;&nbsp;&nbsp; 𖦹 engineered the data pipeline to extract and structure Jira ticket history into azure blob storage to fuel automated resolution
 </p>
 <div align="center">
   <img src="https://github.com/l3mxny/l3mxny/blob/main/blink.png?raw=true" width="150" />
