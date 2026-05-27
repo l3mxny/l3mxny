@@ -14,8 +14,9 @@
  <div align = "left">
  <h2>⟢ experience</h2>
   <div align = "left">
- <p> ✶ <strong>summer 2026:</strong> machine learning intern @ <a href="https://arl.devcom.army.mil/">DEVCOM Army Research Laboratory</a> </p>
-   
+ <p> ✶ <strong>summer 2026:</strong> machine learning intern @ <a href="https://arl.devcom.army.mil/">DEVCOM Army Research Laboratory</a> <br>
+ &nbsp;&nbsp;&nbsp; 𖦹 fine-tuning and deploying multimodal LLMs on RF spectrum data for anomaly detection <br>  
+ &nbsp;&nbsp;&nbsp; 𖦹 building models that translate raw radio signals into natural language descriptions with data visualization pipelines <br>  
 
 <p> ✶ <strong>winter 2026:</strong> ai/ml intern @ <a href="https://www.easydynamics.com/">Easy Dynamics</a><br>
 &nbsp;&nbsp;&nbsp; 𖦹 built Blink (below!) — a RAG-powered it agent deployed in microsoft teams via copilot studio + power automate, cutting initial response time from 24 hours to 10 seconds<br>
