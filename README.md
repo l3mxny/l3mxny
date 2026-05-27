@@ -37,6 +37,8 @@
   ✶ <a href="https://devpost.com/software/savere">SaveRe</a> — tackles the 60M tons of annual U.S. food waste by scanning receipts and tracking expiration dates; ocr + gemini pipeline processes uploads in under 3 seconds (typescript, next.js, mongodb, docker)<br><br>
   ✶ <a href="https://devpost.com/software/reelmoments">Gold Rush</a> — makes budgeting actually fun for college students with social spending leaderboards and live bank data; integrated plaid API with real-time firestore sync (react, node.js, firebase)<br><br>
   ✶ <a href="https://devpost.com/software/liteline">LiteLine</a> — helps students find the nearest campus emergency blue light station in 2 clicks when walking alone at night; built with google maps geolocation + a gemini safety chatbot (react, typescript, docker)
+<p>
+ ✶ <a href="https://github.com/l3mxny/ReBooted">ReBooted</a> — built from 4 years of teaching tech to Chinese-speaking seniors; a bilingual digital literacy PWA with an AI tutor and real-time family progress portal (Next.js, TypeScript, Firebase)
 </p>
  
 
