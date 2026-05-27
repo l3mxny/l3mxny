@@ -19,7 +19,7 @@
 
 <p> ✶ <strong>winter 2026:</strong> ai/ml intern @ <a href="https://www.easydynamics.com/">Easy Dynamics</a><br>
 &nbsp;&nbsp;&nbsp; 𖦹 built Blink (below!) — a RAG-powered it agent deployed in microsoft teams via copilot studio + power automate, cutting initial response time from 24 hours to 10 seconds<br>
-&nbsp;&nbsp;&nbsp; 𖦹 engineered the data pipeline to extract and structure Jira ticket history into azure blob storage to fuel automated resolution
+&nbsp;&nbsp;&nbsp; 𖦹 engineered the data pipeline to extract and structure jira ticket history into azure blob storage to fuel automated resolution
 </p>
 <div align="center">
   <img src="https://github.com/l3mxny/l3mxny/blob/main/blink.png?raw=true" width="150" />
