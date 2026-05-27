@@ -24,6 +24,10 @@
 <div align="center">
   <img src="https://github.com/l3mxny/l3mxny/blob/main/blink.png?raw=true" width="150" />
 </div>
+ <div align = "left">
+ <p> ✶ software engineer @ <a href="https://github.com/Hack4Impact-UMD"> Hack4Impact</a> </p>
+ <p> ✶ sponsorship organizer @ <a href="https://gotechnica.org/"> Technica </a> </p>
+   
 
 <h2>⟢ projects</h2>
  <div align = "left">
