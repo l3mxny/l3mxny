@@ -33,10 +33,10 @@
 <h2>⟢ projects</h2>
  <div align = "left">
  <p>
-  ✶ <a href="https://devpost.com/software/project-sj6wdhy2a1mr">Gotcha!</a> — helps small businesses detect shoplifting in real time before it's too late; built a YOLOv8 CV pipeline with WebSocket streaming and automated Twilio voice alerts (Python, Flask, React)<br><br>
-  ✶ <a href="https://devpost.com/software/savere">SaveRe</a> — tackles the 60M tons of annual U.S. food waste by scanning receipts and tracking expiration dates; OCR + Gemini pipeline processes uploads in ~2.7s (TypeScript, Next.js, MongoDB, Docker)<br><br>
-  ✶ <a href="https://devpost.com/software/reelmoments">Gold Rush</a> — makes budgeting actually fun for college students with social spending leaderboards and live bank data; integrated Plaid API with real-time Firestore sync (React, Node.js, Firebase)<br><br>
-  ✶ <a href="https://devpost.com/software/liteline">LiteLine</a> — helps students find the nearest campus emergency blue light station in 2 clicks when walking alone at night; built with Google Maps geolocation + a Gemini safety chatbot (React, TypeScript, Docker)
+  ✶ <a href="https://devpost.com/software/project-sj6wdhy2a1mr">Gotcha!</a> — helps small businesses detect shoplifting in real time before it's too late; built a YOLOv8 CV pipeline with websocket streaming and automated twilio voice alerts (python, flask, react)<br><br>
+  ✶ <a href="https://devpost.com/software/savere">SaveRe</a> — tackles the 60M tons of annual U.S. food waste by scanning receipts and tracking expiration dates; ocr + gemini pipeline processes uploads in ~2.7s (typescript, next.js, mongodb, docker)<br><br>
+  ✶ <a href="https://devpost.com/software/reelmoments">Gold Rush</a> — makes budgeting actually fun for college students with social spending leaderboards and live bank data; integrated plaid API with real-time firestore sync (react, node.js, firebase)<br><br>
+  ✶ <a href="https://devpost.com/software/liteline">LiteLine</a> — helps students find the nearest campus emergency blue light station in 2 clicks when walking alone at night; built with google maps geolocation + a gemini safety chatbot (react, typescript, docker)
 </p>
  
 
