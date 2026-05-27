@@ -7,14 +7,14 @@
 <a href="https://www.linkedin.com/in/victoria-xiao-449844270/"><img src="https://skillicons.dev/icons?i=linkedin" height="28" /></a>
 <a href="mailto:vxiao@terpmail.umd.edu"><img src="https://skillicons.dev/icons?i=gmail" height="28" /></a>
 </h1>
- <p> ✶ current sophomore student @ UMD studying computer science + statistics</p>
+ <p> ✶ current student @ UMD studying computer science + statistics</p>
  <p> ✶ interested in building with a purpose -- applying ai/ml to create real-world impact</p>
  <p> ✶ when not at the computer, i'm always ranking a new food spot on beli (add me! @l3mxny) </p>
 
  <div align = "left">
  <h2>⟢ experience</h2>
   <div align = "left">
- <p> ✶ <strong>summer 2026:</strong> machine learning intern @ <a href="https://arl.devcom.army.mil/">DEVCOM Army Research Laboratory</a> <br>
+ <p> ✶ <strong>summer 2026:</strong> machine learning engineer intern @ <a href="https://arl.devcom.army.mil/">DEVCOM Army Research Laboratory</a> <br>
  &nbsp;&nbsp;&nbsp; 𖦹 fine-tuning and deploying multimodal LLMs on RF spectrum data for anomaly detection <br>  
  &nbsp;&nbsp;&nbsp; 𖦹 building models that translate raw radio signals into natural language descriptions with data visualization pipelines <br>  
 
