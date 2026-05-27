@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/victoria-xiao-449844270/"><img src="https://skillicons.dev/icons?i=linkedin" height="28" /></a>
 <a href="mailto:vxiao@terpmail.umd.edu"><img src="https://skillicons.dev/icons?i=gmail" height="28" /></a>
 </h1>
- <p> ✶ current student @ UMD studying computer science + statistics</p>
+ <p> ✶ current sophomore student @ UMD studying computer science + statistics</p>
  <p> ✶ interested in building with a purpose -- applying AI/ML to create real-world impact</p>
  <p> ✶ when not at the computer, i'm always ranking a new food spot on beli (add me! @l3mxny) </p>
 
