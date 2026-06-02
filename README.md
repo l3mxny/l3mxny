@@ -15,8 +15,10 @@
  <h2>⟢ experience</h2>
   <div align = "left">
  <p> ✶ <strong>summer 2026:</strong> machine learning engineer intern @ <a href="https://arl.devcom.army.mil/">DEVCOM Army Research Laboratory</a> <br>
- &nbsp;&nbsp;&nbsp; 𖦹 fine-tuning and deploying multimodal LLMs on RF spectrum data for anomaly detection @ DCA <br>  
- &nbsp;&nbsp;&nbsp; 𖦹 building models that translate raw radio signals into natural language descriptions with data visualization pipelines <br>  
+ &nbsp;&nbsp;&nbsp; 𖦹 fine-tuning multimodal LLMs on RF, audio & vision data for real-time threat classification @ DCA <br>  
+ &nbsp;&nbsp;&nbsp; 𖦹 building sensor fusion pipelines that unify heterogeneous signal streams into a single detection system <br>  
+ &nbsp;&nbsp;&nbsp; 𖦹 architecting a network of small language models for scalable, modality-aware anomaly detection <br>  
+
 
 <p> ✶ <strong>winter 2026:</strong> ai/ml intern @ <a href="https://www.easydynamics.com/">Easy Dynamics</a><br>
 &nbsp;&nbsp;&nbsp; 𖦹 built blink (below!) — a rag-powered IT agent trained on historical jira tickets and internal SOPs<br>
