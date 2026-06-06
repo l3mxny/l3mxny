@@ -41,9 +41,6 @@
   ✶ <a href="https://devpost.com/software/liteline">LiteLine</a> — helps students find the nearest campus emergency blue light station in 2 clicks when walking alone at night; built with google maps geolocation + a gemini safety chatbot (react, typescript, docker)
 <p>
   ✶ <a href="https://devpost.com/software/reelmoments">Gold Rush</a> — makes budgeting actually fun for college students with social spending leaderboards and live bank data; integrated plaid api with real-time firestore sync (react, node.js, firebase)<br><br>
- ✶ <a href="https://github.com/l3mxny/ReBooted">ReBooted</a> — built from 4 years of teaching tech to chinese-speaking seniors; a bilingual digital literacy pwa with an ai tutor and real-time family progress portal (next.js, typescript, firebase)
-</p>
- 
 
 
  
