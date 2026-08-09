@@ -15,9 +15,14 @@
  <h2>⟢ experience</h2>
   <div align = "left">
  <p> ✶ <strong>summer 2026:</strong> machine learning engineer intern @ <a href="https://arl.devcom.army.mil/">DEVCOM Army Research Laboratory</a> <br>
- &nbsp;&nbsp;&nbsp; 𖦹 fine-tuning multimodal LLMs on RF, audio & vision data for real-time threat classification @ DCA <br>  
- &nbsp;&nbsp;&nbsp; 𖦹 building sensor fusion pipelines that unify heterogeneous signal streams into a single detection system <br>  
- &nbsp;&nbsp;&nbsp; 𖦹 architecting a network of small language models for scalable, modality-aware anomaly detection <br>  
+ &nbsp;&nbsp;&nbsp; 𖦹 a multimodal drone detection system that fuses RF, audio & vision from 23 simulated sensors into real-time threat assessments, modeled on DCA airspace <br>  
+ &nbsp;&nbsp;&nbsp; 𖦹 a sensor-fusion model unifies heterogeneous signal streams into a single classification, surfaced to operators through a live Gradio dashboard <br>  
+ &nbsp;&nbsp;&nbsp; 𖦹 a fine-tuned Llama 3.2 1B model (distilled from a Qwen3-32B teacher) translates fused sensor snapshots into plain-language threat readouts <br>  
+
+ <p> ↳ <strong> fall 2026: </strong> <br>
+ &nbsp;&nbsp;&nbsp; 𖦹 integrate real intercepted RF signals to move beyond synthetic data <br>
+ &nbsp;&nbsp;&nbsp; 𖦹 capture real multimodal data with RF receivers (bladeRF 2.0), mics & cameras at the lab or airport<br>
+ &nbsp;&nbsp;&nbsp; 𖦹 build a 3D Blender simulation (custom DCA model) with multiple drones, planes & birds for synchronized 3D video, realistic audio & ray-traced RF<br>
 
 
 <p> ✶ <strong>winter 2026:</strong> ai/ml intern @ <a href="https://www.easydynamics.com/">Easy Dynamics</a><br>
@@ -33,14 +38,7 @@
  <p> ✶ sponsorship organizer @ <a href="https://gotechnica.org/"> Technica </a> </p>
    
 
-<h2>⟢ projects</h2>
- <div align = "left">
- <p>
-  ✶ <a href="https://devpost.com/software/project-sj6wdhy2a1mr">Gotcha!</a> — helps small businesses detect shoplifting in real time before it's too late; built a yolov8 cv pipeline with websocket streaming and automated twilio voice alerts (python, flask, react)<br><br>
-  ✶ <a href="https://devpost.com/software/savere">SaveRe</a> — tackles the 60m tons of annual U.S. food waste by scanning receipts and tracking expiration dates; ocr + gemini pipeline processes uploads in under 3 seconds (typescript, next.js, mongodb, docker)<br><br>
-  ✶ <a href="https://devpost.com/software/liteline">LiteLine</a> — helps students find the nearest campus emergency blue light station in 2 clicks when walking alone at night; built with google maps geolocation + a gemini safety chatbot (react, typescript, docker)
-<p>
-  ✶ <a href="https://devpost.com/software/reelmoments">Gold Rush</a> — makes budgeting actually fun for college students with social spending leaderboards and live bank data; integrated plaid api with real-time firestore sync (react, node.js, firebase)<br><br>
+<h2>⟢ check out my pinned projects below! </h2>
 
 
  
