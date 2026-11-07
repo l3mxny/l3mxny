@@ -19,10 +19,9 @@
  &nbsp;&nbsp;&nbsp; 𖦹 a sensor-fusion model unifies heterogeneous signal streams into a single classification, surfaced to operators through a live gradio dashboard <br>  
  &nbsp;&nbsp;&nbsp; 𖦹 a fine-tuned llama 3.2 1b model (distilled from a qwen3-32b teacher) translates fused sensor snapshots into plain-language threat readouts <br>  
 
- <p> ↳ <strong> next steps: </strong> <br>
- &nbsp;&nbsp;&nbsp; 𖦹 integrate real intercepted rf signals to move beyond synthetic data <br>
- &nbsp;&nbsp;&nbsp; 𖦹 capture real multimodal data with rf receivers (bladerf 2.0), mics & cameras at the lab or airport<br>
- &nbsp;&nbsp;&nbsp; 𖦹 build a 3d blender simulation (custom dca model) with multiple drones, planes & birds for synchronized 3d video, realistic audio & ray-traced rf<br>
+ <p> ↳ <strong> fall 2026: </strong> <br>
+ &nbsp;&nbsp;&nbsp; 𖦹 building the live web dashboard for real-time acoustic-array sensor data & sound-source localization <br>
+ &nbsp;&nbsp;&nbsp;  𖦹 working in ros 2 jazzy to stream live sensor data into the frontend <br>
 
 
 <p> ✶ <strong>winter 2026:</strong> ai/ml intern @ <a href="https://www.easydynamics.com/">Easy Dynamics</a><br>
